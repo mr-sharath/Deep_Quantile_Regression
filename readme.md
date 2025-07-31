@@ -177,4 +177,4 @@ python scripts/evaluate_models.py
 
 ---
 
-Made with ❤️ by Indu Sai Atla
+Made by Indu Sai Atla and Sharath Reddy
